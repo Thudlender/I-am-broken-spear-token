@@ -111,7 +111,7 @@ export default function Page() {
               <MenuIcon />
             </IconButton>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              Tanny Sleepless Token CryptoExchange
+              I am broken spear Token CryptoExchange
             </Typography>
 
             {!isActive ? (
